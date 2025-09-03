@@ -7,4 +7,4 @@
 
 
 **Historical**   
-[https://www.linuxjournal.com/article/6290](https://www.linuxjournal.com/article/6290)
+[https://www.linuxjournal.com/user/801124](https://www.linuxjournal.com/user/801124)
