@@ -5,9 +5,9 @@
 [www.linkedin.com/in/danielsolin/](https://www.linkedin.com/in/danielsolin/)  
 
 **Articles**   
-2025-09-03: [Still Talking About Design Patterns?](devlog/_posts/2025-09-03-still-talking-about-design-patterns/)
-2025-08-08: [Asynchronous Synchronous Dynamics 365 Plugins](devlog/_posts/2025-08-08-asynchronous-synchronous-dynamics-365-plugins/)
-2025-08-02: [Why Task.Run() Has No Place in Dataverse Plugins](devlog/_posts/2025-08-02-why-taskrun-has-no-place-in-dataverse-plugins/)
+2025-09-03: [Still Talking About Design Patterns?](devlog/_posts/2025-09-03-still-talking-about-design-patterns/)  
+2025-08-08: [Asynchronous Synchronous Dynamics 365 Plugins](devlog/_posts/2025-08-08-asynchronous-synchronous-dynamics-365-plugins/)  
+2025-08-02: [Why Task.Run() Has No Place in Dataverse Plugins](devlog/_posts/2025-08-02-why-taskrun-has-no-place-in-dataverse-plugins/)  
   
 **Books (author)**  
 2000-05-19: [Sams Teach Yourself Qt Programming in 24 Hours](http://www.amazon.com/Sams-Teach-Yourself-Programming-Hours/dp/0672318695/)  
