@@ -1,16 +1,19 @@
+**Repos**
+[https://github.com/danielsolin/](https://github.com/danielsolin/)  
+  
 **Articles**   
 [danielsolin.github.io/devlog](https://danielsolin.github.io/devlog/)  
-
+  
 **LinkedIn**   
 [www.linkedin.com/in/danielsolin/](https://www.linkedin.com/in/danielsolin/)  
-
+  
 **Books (author)**  
 2000-05-19: [Sams Teach Yourself Qt Programming in 24 Hours](http://www.amazon.com/Sams-Teach-Yourself-Programming-Hours/dp/0672318695/)  
-
+  
 **Books (co-author)**  
 2003-03-25: [MySQL Transactions and Replication Handbook](http://www.amazon.com/MySQL-Transactions-Replication-Handbook-Daniel/dp/1861008384/)  
 2003-01-01: [Professional PHP Web Services](http://www.amazon.com/Professional-PHP-Services-James-Fuller/dp/1861008074/)  
-
+  
 **Article Archive**   
 2003-10-02: [Modular PHP Development with FastTemplate](https://web.archive.org/web/20041010173213/http://www.onlamp.com/pub/a/php/2003/10/02/modular_php.html)  
 2002-12-05: [Generating One-Time URLs with PHP](https://web.archive.org/web/20030401151056/http://www.onlamp.com/pub/a/php/2002/12/05/one_time_URLs.html)  
