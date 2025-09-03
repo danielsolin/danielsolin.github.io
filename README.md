@@ -4,10 +4,10 @@
 **LinkedIn**   
 [www.linkedin.com/in/danielsolin/](https://www.linkedin.com/in/danielsolin/)  
 
-**Books (Author)**  
+**Books (author)**  
 2000-05-19: [Sams Teach Yourself Qt Programming in 24 Hours](http://www.amazon.com/Sams-Teach-Yourself-Programming-Hours/dp/0672318695/)  
 
-**Books (Co-author)**  
+**Books (co-author)**  
 2003-03-25: [MySQL Transactions and Replication Handbook](http://www.amazon.com/MySQL-Transactions-Replication-Handbook-Daniel/dp/1861008384/)  
 2003-01-01: [Professional PHP Web Services](http://www.amazon.com/Professional-PHP-Services-James-Fuller/dp/1861008074/)  
 
