@@ -18,5 +18,5 @@
 [Developing a MySQL quota daemon](https://jacobfilipp.com/DrDobbs/articles/SA/v11/i02/a8.htm)  
 [Introduction to Socket Programming with PHP](https://web.archive.org/web/20030202082831/http://www.onlamp.com/pub/a/php/2001/03/29/socket_intro.html)  
 [Ximian GNOME: Welcome to Your Desktop](https://web.archive.org/web/20030413193655/http://linux.oreillynet.com/pub/a/linux/2001/02/16/ximian.html)  
-[Helix GNOME: Unix For Humans](https://web.archive.org/web/20030419114655/http://www.oreillynet.com/pub/a/linux/2000/07/27/helix_gnome.html)  
+[Helix GNOME: Unix For Humans](https://web.archive.org/web/20030402043840/http://linux.oreillynet.com/pub/a/linux/2000/07/27/helix_gnome.html)  
 [GNOME Panel Applets](https://web.archive.org/web/20030803010043/http://www.onlamp.com/pub/a/python/2000/07/25/gnome_applet.html)  
