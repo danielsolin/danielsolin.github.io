@@ -1,6 +1,6 @@
 **Repos**  
-[dvmig(https://github.com/danielsolin/dvmig): A CLI app for syncing/migrating data between Dynamics/Dataverse instances while preserving audit fields.
-[devlog(https://github.com/danielsolin/devlog)]: Blog based on [Eleventy](https://www.11ty.dev/) to generate a static website from Markdown files.
+[dvmig](https://github.com/danielsolin/dvmig): A CLI app for syncing/migrating data between Dynamics/Dataverse instances while preserving audit fields.
+[devlog](https://github.com/danielsolin/devlog): Blog based on [Eleventy](https://www.11ty.dev/) to generate a static website from Markdown files.
   
 **LinkedIn**   
 [www.linkedin.com/in/danielsolin/](https://www.linkedin.com/in/danielsolin/)  
