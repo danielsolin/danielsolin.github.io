@@ -1,3 +1,7 @@
+**Contact**  
+[daniel@solin.org](mailto:daniel@solin.org)  
+[www.linkedin.com/in/danielsolin/](https://www.linkedin.com/in/danielsolin/)  
+
 **Projects**  
 [dvmig](https://github.com/danielsolin/dvmig): A CLI app for syncing/migrating data between Dynamics/Dataverse instances while preserving audit fields.  
 [devlog](https://github.com/danielsolin/devlog): Blog based on [Eleventy](https://www.11ty.dev/) to generate a static website from Markdown files.
@@ -6,10 +10,6 @@
 2025-09-03: [Still Talking About Design Patterns?](https://danielsolin.github.io/devlog/_posts/2025-09-03-still-talking-about-design-patterns/)  
 2025-08-08: [Asynchronous Synchronous Dynamics 365 Plugins](https://danielsolin.github.io/devlog/_posts/2025-08-08-asynchronous-synchronous-dynamics-365-plugins/)  
 2025-08-02: [Why Task.Run() Has No Place in Dataverse Plugins](https://danielsolin.github.io/devlog/_posts/2025-08-02-why-taskrun-has-no-place-in-dataverse-plugins/)
-
-**Contact**   
-[daniel@solin.org](mailto:daniel@solin.org)  
-[www.linkedin.com/in/danielsolin/](https://www.linkedin.com/in/danielsolin/)  
   
 **Books (author)**  
 2000-05-19: [Sams Teach Yourself Qt Programming in 24 Hours](http://www.amazon.com/Sams-Teach-Yourself-Programming-Hours/dp/0672318695/)  
