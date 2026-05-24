@@ -3,8 +3,7 @@
 [www.linkedin.com/in/danielsolin/](https://www.linkedin.com/in/danielsolin/)  
 
 **Projects**  
-[dvmig](https://github.com/danielsolin/dvmig): A CLI app for syncing/migrating data between Dynamics/Dataverse instances while preserving audit fields.  
-[devlog](https://github.com/danielsolin/devlog): Blog based on [Eleventy](https://www.11ty.dev/) to generate a static website from Markdown files.
+[dvmig](https://github.com/danielsolin/dvmig): An app for syncing/migrating data between Dynamics/Dataverse instances while preserving audit fields and entity relations. Comes as both a TUI and a XrmToolBox plugin.
 
 **Articles**   
 2025-09-03: [Still Talking About Design Patterns?](https://danielsolin.github.io/devlog/_posts/2025-09-03-still-talking-about-design-patterns/)  
