@@ -3,6 +3,7 @@
 [www.linkedin.com/in/danielsolin/](https://www.linkedin.com/in/danielsolin/)  
 
 **Projects**  
+[sesport](https://github.com/danielsolin/sesport): A project for finding and normalizing data that then can be used for presenting what Swedes will be competing in international sports on tv. Public view is at [sesport.se](https://sesport.se).  
 [dvmig](https://github.com/danielsolin/dvmig): An app for syncing/migrating data between Dynamics/Dataverse instances while preserving audit fields and entity relations. Comes as both a TUI and a XrmToolBox plugin.
 
 **Articles**   
